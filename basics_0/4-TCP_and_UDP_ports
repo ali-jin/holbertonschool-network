@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+# list all TCP or UDP ports that are being listened on
 sudo netstat -tunlp
